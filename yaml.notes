@@ -4,4 +4,5 @@ deps:
 - pip3 install requests
 - pip3 install Pillow
 - pip3 install tensorflow
+daemons: []
 run: python3 Classifier.py
